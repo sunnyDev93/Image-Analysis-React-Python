@@ -1,7 +1,7 @@
 # IAS-project
 Image Analysis web application
 Backend - FastApi
-Frontend - React
+Frontend - React.js
 ## Environment Setup
 
 ### Use scripts
